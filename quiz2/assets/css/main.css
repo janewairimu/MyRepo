@@ -1,0 +1,306 @@
+body{background-color:#354E71;}
+
+
+#wrapper{
+		background-color:#841F27;
+        margin:0 auto 0 auto;
+     	min-height:1300px;
+		max-height:1000px;
+}
+
+
+#header{padding-left:300px;
+		margin-left:200px;}
+		
+		
+
+#h{
+		background-image:url(../images/56525.jpg);
+		height:250px;
+		width:1200px;
+		padding:50px;
+		margin-left:15px;
+		text-align:center;
+		color:#FF0;
+		background-attachment:fixed;}
+
+#pic{height:250px;
+width:1200px;
+padding:50px;
+background-attachment:fixed;
+margin-left:15px;
+background-image:url(../images/festival-dobroty15850.jpg);
+color:#000;
+font-size:24px;
+}
+
+
+
+#open{	
+		background-color:#A5B557;
+		height:50px;
+		width:1200px;
+		color:#FFF;
+		padding:50px;
+		text-align:center;
+		margin-left:15px;}
+		
+
+
+#footer{
+		margin-left:15px;
+		padding-top: 100px;
+		height: 100px;
+		width: 1300px;
+		color:#999;
+		background-color:#354E71;}
+		
+		
+
+
+ul li{
+
+		display:inline;
+		padding:70px;
+		border:10px #00FF00;
+		
+
+  }
+
+
+
+
+
+
+
+#list{
+
+		 text-align: center;
+		 background-color: #FFF;
+		 width: 1200px;
+		 height: 50px;
+		 padding-left: 125px;
+		 margin-left: 10px;
+		 margin-top:100px;
+		 text-shadow:#F00;
+		 border-radius:20;
+		  border-bottom-right-radius: 3px;
+		  
+ 
+}
+
+
+
+
+a {text-decoration: none; 
+}
+		 
+
+
+
+
+#content{
+
+		 color: #fff;
+		 padding: 50px;
+		 margin-right: 50px;}
+
+
+	
+
+
+#contact{
+
+		   color: #fff;
+		   padding-left: 20px;
+		   margin-right: 5px;}
+
+
+
+.rights{
+
+		   margin-left: 250px;
+ 		   padding: 20px;}
+
+#img{
+		   padding:10px;
+		   height:400px;
+		   margin-top:200px;
+		   margin-left:400px;}
+		   
+		   
+		   
+#p{
+		  padding: 10px;
+		  height: 100px;
+		  color: #fff;
+		  width:100%;}
+
+
+.clad{
+
+	      height:40px;
+		  width:50%;
+		  float:left;}
+
+.why{
+
+		 float:right;
+		 height:40px;
+		 width:50%;}
+		
+
+.f i{
+	 	   height:50px;
+	 	   width:50px;
+	 	   color:#FFF;
+		   font-size:40px;
+		   text-align:center;
+		   -moz-border-radius:50%;
+	       -webkit-border-radius:50%;
+			border-radius:50%;}
+
+
+
+.f i:hover{
+
+		   background-color:#4c66a4;
+		   height:50px;
+		   width:50px;
+		  -moz-border-radius:50%;
+		  -webkit-border-radius:50%;
+		   border-radius:50%;}
+		 
+
+
+
+.g i{
+		   height:50px;
+		   width:50px;
+		   color:#FFF;
+		   font-size:40px;
+		   text-align:center;
+		   -moz-border-radius:50%;
+	       -webkit-border-radius:50%;
+			border-radius:50%;}
+
+
+
+
+
+.g i:hover{
+
+		   background-color:#dd4b39;
+		   height:50px;
+		   width:50px;
+		   -moz-border-radius:50%;
+		   -webkit-border-radius:50%;
+			border-radius:50%;}
+		
+
+
+
+
+.t i{
+	 	   height:50px;
+	 	   width:50px;
+		   color:#FFF;
+		   font-size:40px;
+		   text-align:center;
+		   -moz-border-radius:50%;
+		   -webkit-border-radius:50%;
+			border-radius:50%;}
+
+
+
+
+.t i:hover{
+
+		   background-color:#4099FF;
+		   height:50px;
+		   width:50px;
+		  -moz-border-radius:50%;
+		  -webkit-border-radius:50%;
+		   border-radius:50%;}
+
+
+
+
+.l i{
+		   height:50px;
+		   width:50px;
+		   color:#FFF;
+		   font-size:40px;
+		   text-align:center;
+		   -moz-border-radius:50%;
+		   -webkit-border-radius:50%;
+			border-radius:50%;}
+
+
+
+
+
+.l i:hover{
+			background-color:#007bb6;
+			height:50px;
+			width:50px;
+			-moz-border-radius:50%;
+			-webkit-border-radius:50%;
+			border-radius:50%;}
+
+
+
+
+
+.y i{
+		   height:50px;
+		   width:50px;
+		   color:#FFF;
+		   font-size:40px;
+		   text-align:center;
+		   -moz-border-radius:50%;
+		   -webkit-border-radius:50%;
+			border-radius:50%;}
+
+
+
+
+
+.y i:hover{
+
+			background-color:#bb0000;
+			height:50px;
+			width:50px;
+			-moz-border-radius:50%;
+			-webkit-border-radius:50%;
+			border-radius:50%;}
+
+
+
+
+
+
+
+
+.p i{
+		   height:50px;
+		   width:50px;
+		   color:#FFF;
+		   font-size:40px;
+		   text-align:center;
+			-moz-border-radius:50%;
+			-webkit-border-radius:50%;
+			border-radius:50%;}
+
+
+
+
+.p i:hover{
+
+			background-color:#cb2027;
+			height:50px;
+			width:50px;
+			-moz-border-radius:50%;
+			-webkit-border-radius:50%;
+			border-radius:50%;}
+
